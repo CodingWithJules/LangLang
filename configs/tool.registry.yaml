@@ -1,0 +1,6 @@
+tools:
+  - name: Primary
+    description: Core data queries
+    module: src.tools.primary_tool
+    function: primary_tool
+# Add others
